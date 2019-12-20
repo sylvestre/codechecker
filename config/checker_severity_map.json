@@ -167,7 +167,7 @@
   "google-readability-casting":                                 "LOW",
   "google-readability-function-size":                           "STYLE",
   "google-readability-namespace-comments":                      "STYLE",
-  "google-readability-redundant-smartptr-get":                  "MEDIUM",
+  "google-readability-redundant-smartptr-get":                  "STYLE",
   "google-readability-todo":                                    "STYLE",
   "google-runtime-int":                                         "LOW",
   "google-runtime-member-string-references":                    "LOW",
